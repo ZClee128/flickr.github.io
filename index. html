@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fickr Aesthetic Studio - Support</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 600px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { color: #000; border-bottom: 2px solid #000; padding-bottom: 10px; }
+        。contact-box { background: #f9f9f9; padding: 20px; border-radius: 12px; border: 1px solid #eee; }
+        a { color: #007aff; text-decoration: none; }
+        。footer { margin-top: 50px; font-size: 12px; color: #999; }
+    </style>
+</head>
+<body>
+    <h1>Fickr Support Center</h1>
+    <p>Welcome to the Fickr Aesthetic Studio support portal. We are committed to providing a premium experience for our creative community.</p>
+    
+    <div class="contact-box">
+        <h3>Contact Us</h3>
+        <p>For technical assistance, billing inquiries, or aesthetic feedback, please contact our support team:</p>
+        <p><strong>Support Email:</strong> <a href="mailto:lovantiep9088@icloud.com">lovantiep9088@icloud.com</a></p>
+    </div>
+
+    <h3>Frequently Asked Questions</h3>
+    <p><strong>Q: How do I save my moodboards?</strong><br>A: Use the 'Export' button in the Studio. Your composition will be saved to your system Photo Library and our internal archive.</p>
+    <p><strong>Q: Coins not appearing after purchase?</strong><br>A: Please ensure you have a stable connection. If issues persist, email us with your Order ID for manual restoration.</p>
+
+    <div class="footer">© 2026 Fickr Creative. All rights reserved.</div>
+</body>
+</html>
